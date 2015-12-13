@@ -1,7 +1,7 @@
 name: Keithblues
 favicon: null
-layout_spectrum: 0.9262996674515307
-typography_spectrum: 0.3808511
+layout_spectrum: 1
+typography_spectrum: 0.50237
 collections:
   - index:
       navigable: true
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6339205703698099
+    - '#cbdde0'
+    - '#05060a'
+    - '#83b4c0'
+    - '#10313d'
+    - '#8b734e'
+  brandStrength: 0.8125
   lightness: 0.4781876045744866
   saturation: 0.9586385497823358
   rhythmicContrast: 0.2418642197735608
